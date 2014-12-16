@@ -1,0 +1,12 @@
+{
+  "name": "work",
+  "version": "0.0.0",
+  "description": "Run a JavaScript file as a web worker from the command line",
+  "dependencies": {
+    "meow": "^2.0.0",
+    "multiline": "^1.0.1",
+    "node-phantom": "^0.2.5",
+    "phantom": "^0.7.1",
+    "bluebird": "^2.3.11"
+  }
+}
